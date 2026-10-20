@@ -9,6 +9,7 @@ data/
 *.env
 !.env.example
 !*.env.example
+temp_auto_push.bat
 *.doppler-token
 .doppler/
 *.sqlite
@@ -20,3 +21,5 @@ data/
 *.p12
 *.pfx
 *.log
+.gitignore
+branch_structure.json
